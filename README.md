@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aadya 👋</h1>
 
 <p align="center">
-  💻 Frontend Developer | 🧠 AI & DSA Enthusiast | 🎓 B.Tech CSE @ GL Bajaj (2022–26) <br>
+  🌐 MERN Stack Developer | 🧠 AI & DSA Enthusiast | 🎓 B.Tech CSE @ GL Bajaj (2022–26) <br>
   🔍 Exploring Generative AI | 📈 350+ LeetCode Problems | 🌐 Building Scalable Web Apps
 </p>
 
