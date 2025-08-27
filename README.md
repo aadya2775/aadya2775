@@ -2,7 +2,7 @@
 
 <p align="center">
   🌐 MERN Stack Developer | 🧠 AI & DSA Enthusiast | 🎓 B.Tech CSE @ GL Bajaj (2022–26) <br>
-  🔍 Exploring Generative AI | 📈 350+ LeetCode Problems | 🌐 Building Scalable Web Apps
+  🔍 Exploring Generative AI | 📈 400+ LeetCode Problems | 🌐 Building Scalable Web Apps
 </p>
 
 ---
