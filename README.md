@@ -14,11 +14,15 @@
 Tech: `Next.js`, `TailwindCSS`, `TypeScript`, `Vapi SDK`, `Gemini`, `Firebase`  
 [🔗 GitHub](https://github.com/shubham-guptaaa/ai_interview)
 
+### 🧩 [Boardify](https://github.com/aadya2775/boardify)
+> A collaborative digital board for brainstorming, planning, and real-time idea sharing  
+Tech: `React`, `Node.js`, `WebSockets`, `MongoDB`, `TailwindCSS`  
+[🔗 GitHub](https://github.com/aadya2775/boardify)
+
 ### 🌍 [UniGuide](https://uniguideproject.netlify.app/)
 > A smart city guide for students and travelers with real-time chat support  
 Tech: `React`, `Node.js`, `Express`, `Socket.io`, `MongoDB`, `TailwindCSS`  
 [🔗 GitHub](https://github.com/aadya2775/uniGuide)
-
 ---
 
 ## 🧠 Skills & Tools
@@ -61,8 +65,16 @@ Tech: `React`, `Node.js`, `Express`, `Socket.io`, `MongoDB`, `TailwindCSS`
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:aadyaa9631@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/aadya-757155229/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/aadya2775"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/aadya2775/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="mailto:aadyaa9631@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aadya-757155229/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/aadya2775">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/aadya2775/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
